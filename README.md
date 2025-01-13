@@ -65,3 +65,8 @@
          I also referred to online programming resources and utilized an AI assistant for brainstorming and debugging certain features. Like : Chatgpt,Google.
         
     Overall, this file handling utility demonstrates a good understanding of Java's file I/O functionalities and provides a user-friendly interface for basic file management tasks.  
+
+
+# OUTPUT OF THE TASK : 
+
+![Screenshot 2025-01-13 190153](https://github.com/user-attachments/assets/8a09653f-1631-445f-b8a3-3cc26dbbedc8)

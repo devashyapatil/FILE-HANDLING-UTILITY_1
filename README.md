@@ -14,7 +14,7 @@
 
 # DESCRIPTION: 
 
-     **Functionality**:
+     Functionality:
         This program acts as a simple file management tool that allows users to perform various 
         operations on text files. Here's a breakdown of the functionalities it offers:
         
@@ -31,7 +31,7 @@
              -> Append new text to an existing file.
              -> Delete specific lines from a file.
              
-      **Code Structure**:
+      Code Structure:
         The code is well-organized and uses clear naming conventions, making it relatively easy to 
         understand. Here's a breakdown of the key components:
         
@@ -50,7 +50,7 @@
                  2. appendToFile(): Appends new text to the end of a file.
                  3. deleteSpecificLines(): Deletes user-specified lines from a file.
                  
-      **Key Points**:
+      Key Points:
         =>The code effectively utilizes exception handling (try-catch blocks) to manage potential 
            errors during file operations, providing informative messages to the user in case of issues.
            
@@ -60,7 +60,7 @@
         =>When modifying a file, the code reads the existing content line by line into a list, makes the 
            necessary changes (replacement, deletion, or appending), and then writes the modified list back to the file.
            
-      **TOOLS**:
+      TOOLS:
          Having knowldge of Java documentation and programming tools, to demonstrate file handling operations. 
          I also referred to online programming resources and utilized an AI assistant for brainstorming and debugging certain features. Like : Chatgpt,Google.
         

@@ -94,13 +94,13 @@
 
 # OUTPUT OF THE TASK : 
 
-Write to file :
+**Write to file** :
 ![Image](https://github.com/user-attachments/assets/6c46af83-6158-4fa4-8090-6051f4254a0d)
 
-Read from file :
+**Read from file** :
 ![Image](https://github.com/user-attachments/assets/31f02f03-a531-47ff-9349-bff4443f2dce)
 
-Modifications : 
+**Modifications** : 
      Appending text :
           ![Image](https://github.com/user-attachments/assets/7a2b8862-7d89-46f5-a809-6b43cf45c6b9)
      Replace text :     
@@ -113,5 +113,5 @@ Modifications :
      Exit :     
           ![Image](https://github.com/user-attachments/assets/39709449-37c8-4101-9203-884993a71621)
 
-After Modifications:
+**After Modifications**:
 ![Image](https://github.com/user-attachments/assets/f38abd1e-5167-4d31-a1f9-f3c6bba09974)

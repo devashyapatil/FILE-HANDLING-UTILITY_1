@@ -100,9 +100,6 @@ Write to file :
 Read from file :
 ![Image](https://github.com/user-attachments/assets/31f02f03-a531-47ff-9349-bff4443f2dce)
 
-Appending text :
-![Image](https://github.com/user-attachments/assets/7a2b8862-7d89-46f5-a809-6b43cf45c6b9)
-
 Replace text :
 ![Image](https://github.com/user-attachments/assets/d58e0c3c-8fc9-4c05-9cf2-76409465d3e7)
 ![Image](https://github.com/user-attachments/assets/8aa348b2-796e-435a-b0cd-581746b7b481)
@@ -113,8 +110,12 @@ Delete specific line :
 Insert a paragraph :
 ![Image](https://github.com/user-attachments/assets/cfbcf807-caa8-465b-8179-76a9f829beac)
 
+Appending text :
+![Image](https://github.com/user-attachments/assets/7a2b8862-7d89-46f5-a809-6b43cf45c6b9)
+
 Exit :
 ![Image](https://github.com/user-attachments/assets/39709449-37c8-4101-9203-884993a71621)
 
 After Modifications:
 ![Image](https://github.com/user-attachments/assets/f38abd1e-5167-4d31-a1f9-f3c6bba09974)
+

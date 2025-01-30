@@ -100,7 +100,7 @@
 **Read from file** :
 ![Image](https://github.com/user-attachments/assets/31f02f03-a531-47ff-9349-bff4443f2dce)
 
-**Modifications** : 
+Modifications : 
 Appending text :
 ![Image](https://github.com/user-attachments/assets/7a2b8862-7d89-46f5-a809-6b43cf45c6b9)
 

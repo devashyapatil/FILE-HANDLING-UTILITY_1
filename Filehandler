@@ -1,0 +1,16 @@
+File Management Utility - Sample Output  
+---------------------------------------  
+This is a demonstration of file handling in Java.  
+The program can write, read, and modify text files.  
+
+Features:  
+1. Write content to a file  
+2. Read content from a file  
+3. Modify file content  
+   - Replace text  
+   - Append new content  
+   - Delete specific lines  
+   
+This file has been modified successfully!
+
+End of file.

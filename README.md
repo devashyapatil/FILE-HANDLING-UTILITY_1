@@ -110,8 +110,7 @@ Delete specific line :
 Insert a paragraph :
 ![Image](https://github.com/user-attachments/assets/cfbcf807-caa8-465b-8179-76a9f829beac)
 
-Appending text :
-![Image](https://github.com/user-attachments/assets/7a2b8862-7d89-46f5-a809-6b43cf45c6b9)
+Appending text : ![Image](https://github.com/user-attachments/assets/7a2b8862-7d89-46f5-a809-6b43cf45c6b9)
 
 Exit :
 ![Image](https://github.com/user-attachments/assets/39709449-37c8-4101-9203-884993a71621)
